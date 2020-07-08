@@ -1,5 +1,5 @@
-from natural-language-processor import relatePhrase
-from relation-grapher import graphRelations
+from natural_language_processor import relatePhrase
+from relation_grapher import graphRelations
 
 phraseList = ["the sphere to the right of the pyramid next to the cylinder",
               "the clamp next to the hammer on the table", "the cube", "the pyramid",
